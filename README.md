@@ -14,7 +14,8 @@
 
 ![Gabriel Nebraska GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNebraska&show_icons=true&bg_color=00000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_Nebraska=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 
-<img scr="assets/Mario_Gameplay.gif">
+
+<img src="assets/Mario_Gameplay.gif">
