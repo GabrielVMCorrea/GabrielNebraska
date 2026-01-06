@@ -12,7 +12,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/)]( https://www.linkedin.com/feed/) 
 
-![Gabriel Nebraska GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNebraska&show_icons=true&bg_color=00000000)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel_Nebraska&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_Nebraska=anuraghazra&size_weight=0.5&count_weight=0.5)
 
